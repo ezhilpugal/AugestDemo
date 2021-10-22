@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="19804" started-at="2021-08-31T08:37:43Z" finished-at="2021-08-31T08:38:03Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="19804" started-at="2021-08-31T08:37:43Z" finished-at="2021-08-31T08:38:03Z">
+      <class name="org.excel.Excel7">
+        <test-method status="PASS" signature="launch()[pri:0, instance:org.excel.Excel7@1d057a39]" name="launch" is-config="true" duration-ms="8328" started-at="2021-08-31T08:37:43Z" finished-at="2021-08-31T08:37:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="start()[pri:0, instance:org.excel.Excel7@1d057a39]" name="start" is-config="true" duration-ms="8" started-at="2021-08-31T08:37:52Z" finished-at="2021-08-31T08:37:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="test1()[pri:-3, instance:org.excel.Excel7@1d057a39]" name="test1" duration-ms="125" started-at="2021-08-31T08:37:52Z" finished-at="2021-08-31T08:37:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="end()[pri:0, instance:org.excel.Excel7@1d057a39]" name="end" is-config="true" duration-ms="0" started-at="2021-08-31T08:37:52Z" finished-at="2021-08-31T08:37:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method status="PASS" signature="test2()[pri:-2, instance:org.excel.Excel7@1d057a39]" name="test2" duration-ms="74" started-at="2021-08-31T08:37:52Z" finished-at="2021-08-31T08:37:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="start()[pri:0, instance:org.excel.Excel7@1d057a39]" name="start" is-config="true" duration-ms="0" started-at="2021-08-31T08:37:52Z" finished-at="2021-08-31T08:37:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="end()[pri:0, instance:org.excel.Excel7@1d057a39]" name="end" is-config="true" duration-ms="0" started-at="2021-08-31T08:37:52Z" finished-at="2021-08-31T08:37:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method status="PASS" signature="test3(java.lang.String)[pri:-1, instance:org.excel.Excel7@1d057a39]" name="test3" duration-ms="5220" started-at="2021-08-31T08:37:52Z" finished-at="2021-08-31T08:37:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tv]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="start()[pri:0, instance:org.excel.Excel7@1d057a39]" name="start" is-config="true" duration-ms="0" started-at="2021-08-31T08:37:52Z" finished-at="2021-08-31T08:37:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="end()[pri:0, instance:org.excel.Excel7@1d057a39]" name="end" is-config="true" duration-ms="1" started-at="2021-08-31T08:37:57Z" finished-at="2021-08-31T08:37:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method status="PASS" signature="start()[pri:0, instance:org.excel.Excel7@1d057a39]" name="start" is-config="true" duration-ms="0" started-at="2021-08-31T08:37:57Z" finished-at="2021-08-31T08:37:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="test4(java.lang.String)[pri:0, instance:org.excel.Excel7@1d057a39]" name="test4" duration-ms="5281" started-at="2021-08-31T08:37:57Z" finished-at="2021-08-31T08:38:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mobiles]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:org.excel.Excel7@1d057a39]" name="quit" is-config="true" duration-ms="706" started-at="2021-08-31T08:38:02Z" finished-at="2021-08-31T08:38:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="end()[pri:0, instance:org.excel.Excel7@1d057a39]" name="end" is-config="true" duration-ms="0" started-at="2021-08-31T08:38:02Z" finished-at="2021-08-31T08:38:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- org.excel.Excel7 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

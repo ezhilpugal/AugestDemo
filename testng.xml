@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+  <parameter name="mobiles" value="mobiles"></parameter>
+   <parameter name="tv" value="tv"></parameter>
+    <classes>
+      <class name="org.excel.Excel7"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

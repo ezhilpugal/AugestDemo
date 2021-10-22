@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="methods">
+  <test thread-count="5" name="Test(failed)" parallel="methods">
+    <classes>
+      <class name="org.excel.Excel7">
+        <methods>
+          <include name="test3"/>
+          <include name="test4"/>
+          <include name="end"/>
+          <include name="launch"/>
+          <include name="quit"/>
+          <include name="start"/>
+        </methods>
+      </class> <!-- org.excel.Excel7 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
